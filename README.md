@@ -62,7 +62,7 @@ Built an end-to-end web application to run a real youth football championship:
 | Backend | Node.js, Express |
 | Database | SQLite |
 | Auth | JWT, Google OAuth |
-| Other | Discord notifications, HTTPS |
+| Other | HTTPS |
 
 ---
 
